@@ -1,0 +1,6 @@
+{
+  "name": "Thelivu AI Labs",
+  "description": "Practical AI solutions built for Indian businesses from MSMEs to enterprises — 24/7 multilingual WhatsApp sales assistants, automated GST & Tally paperwork processing, and demand forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
